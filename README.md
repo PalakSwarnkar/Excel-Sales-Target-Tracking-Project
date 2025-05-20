@@ -41,7 +41,7 @@ The file includes:
 
 ### Option 1: Quick PDF Preview  
 View the dashboard summary without downloading the Excel file:  
-[**Dashboard Preview (PDF)**](dashboard-preview.pdf)
+[**Dashboard Preview (PDF)**](Dashboard Preview.pdf)
 
 ### Option 2: Download and Explore in Excel  
 1. Download the file: `Sales Target Tracking.xlsm`
