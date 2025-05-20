@@ -39,8 +39,7 @@ The file includes:
 
 ##  How to Use/View the Dashboard
 
-### Option 1: Quick PDF Preview  
-View the dashboard summary without downloading the Excel file:  
+### Option 1: ### Dashboard Preview
 ![Dashboard Preview](dashboard.jpg)
 
 ### Option 2: Download and Explore in Excel  
